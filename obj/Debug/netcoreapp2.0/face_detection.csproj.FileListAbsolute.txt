@@ -1,0 +1,11 @@
+C:\Users\dipamajumdar\source\repos\face_detection\face_detection\bin\Debug\netcoreapp2.0\face_detection.deps.json
+C:\Users\dipamajumdar\source\repos\face_detection\face_detection\bin\Debug\netcoreapp2.0\face_detection.runtimeconfig.json
+C:\Users\dipamajumdar\source\repos\face_detection\face_detection\bin\Debug\netcoreapp2.0\face_detection.runtimeconfig.dev.json
+C:\Users\dipamajumdar\source\repos\face_detection\face_detection\bin\Debug\netcoreapp2.0\face_detection.dll
+C:\Users\dipamajumdar\source\repos\face_detection\face_detection\obj\Debug\netcoreapp2.0\face_detection.csprojAssemblyReference.cache
+C:\Users\dipamajumdar\source\repos\face_detection\face_detection\obj\Debug\netcoreapp2.0\face_detection.csproj.CoreCompileInputs.cache
+C:\Users\dipamajumdar\source\repos\face_detection\face_detection\obj\Debug\netcoreapp2.0\face_detection.AssemblyInfoInputs.cache
+C:\Users\dipamajumdar\source\repos\face_detection\face_detection\obj\Debug\netcoreapp2.0\face_detection.AssemblyInfo.cs
+C:\Users\dipamajumdar\source\repos\face_detection\face_detection\bin\Debug\netcoreapp2.0\face_detection.pdb
+C:\Users\dipamajumdar\source\repos\face_detection\face_detection\obj\Debug\netcoreapp2.0\face_detection.dll
+C:\Users\dipamajumdar\source\repos\face_detection\face_detection\obj\Debug\netcoreapp2.0\face_detection.pdb
